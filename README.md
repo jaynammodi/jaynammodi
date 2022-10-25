@@ -31,7 +31,7 @@ Dynamic and versatile Polyglot Developer familiar with over 30 computer language
  - 🌎: https://github.com/jaynammodi | https://github.com/VoldemortCommunity
  - Developed one-of-a-kind penetration testing tools targeted to run on portable android devices and ported existing tools to be compatible with the same. Maintained the same for consecutive years to match and accompany upgraded security standards of popular corporations such as Netflix, Spotify, Hotstar, Google, etc.
 
-### 📈 Github Stats
+## 📈 Github Stats
 <div align=center>
   <a href="https://github.com/jaynammodi">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/?username=jaynammodi&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynammodi&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" />
@@ -39,9 +39,9 @@ Dynamic and versatile Polyglot Developer familiar with over 30 computer language
   </a>
 </div>
 
-### 🎵 Vibe with me
+## 🎵 Vibe with me
 
-<img width="450px" align=right src="https://spotify-github-profile.vercel.app/api/view.svg?uid=v0asaq6sbemo2ik6adpcioj6k&cover_image=true&theme=default&show_offline=false">
+<img width="400px" align=right src="https://spotify-github-profile.vercel.app/api/view.svg?uid=v0asaq6sbemo2ik6adpcioj6k&cover_image=true&theme=default&show_offline=false">
 
 ```
 Here's what they don’t tell you:
