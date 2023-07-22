@@ -9,7 +9,6 @@
 
 ## ⚡ What have I done?
 ### PyWrite - Instant Assignments 
-<img width="100px" align=right src="http://pywrite.herokuapp.com/static/media/logo.2b878ac4.svg"/>
 
  - 🌎: https://pywrite.herokuapp.com
  - Guided a diverse team to develop a cutting-edge assignment rendering software that produced natural handwriting synthesis using a recurrent neural network. Facilitated simple document uploads and customization, producing high-quality PDFs that resemble real assignments. Committed to driving future successes with a customer-oriented mindset.
