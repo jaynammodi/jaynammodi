@@ -6,36 +6,28 @@
    <a href="https://www.instagram.com/jaynammodi" target="_blank"><img alt = "Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 </div>
-<img height="250px" align=right src="https://memeies.herokuapp.com/">
 
 Dynamic and versatile Polyglot Developer familiar with over 30 computer languages. Almost two years of experience in producing robust code as a freelancer for multifarious clients. Eager to learn and develop quality skills. In previous roles, doubled code-efficiency of Unisight Technologies, in gainful employment as their Lead Frontend Developer. Previous work includes full stack development for Progressive Web Apps, Full fledged Android App development, DBMS and CLI Scripts for various client assigned Tasks.
 
-```
-┌─────────────────────────┐
-│   do visit my site @    │
-│  pywrite.herokuapp.com  │
-└─────────────────────────┘
-```
 ## ⚡ What have I done?
 ### PyWrite - Instant Assignments 
 <img width="100px" align=right src="http://pywrite.herokuapp.com/static/media/logo.2b878ac4.svg"/>
 
  - 🌎: https://pywrite.herokuapp.com
- - Built and Commercialized a Python based assignments rendering program with a ReactJS Frontend allowing users to upload a word document with the contents of the assignment and choose their desired style settings to get a pixel-perfect, fully formatted handwritten PDF with Images, Tables, and Indentation imitating a handwritten document.
+ - Guided a diverse team to develop a cutting-edge assignment rendering software that produced natural handwriting synthesis using a recurrent neural network. Facilitated simple document uploads and customization, producing high-quality PDFs that resemble real assignments. Committed to driving future successes with a customer-oriented mindset.
 
 ### Project Aletheia
  - 🌎: https://github.com/jaynammodi/ProjectAletheia
- - Developed a 16-bit Spectrally Normalized Generative Adversarial Network for Recosntruction of row and column droupouts in Short Wave Infrared Images captured by Satellites. The project was mentored and evaluated by ISRO in the final round of Smart India Hackathon 2020. Peak accuracy with an unrealisatically imbalanced input dataset was found to be 99.97% compared to the ground truth via Structural Similarity Index Metric. 
+ - Designed and developed a state-of-the-art 16-bit Spectrally Normalized Generative Adversarial Network (GAN) specifically tailored for reconstructing row and column dropouts in Short Wave Infrared Images obtained from satellite captures. The project received mentorship and evaluation from ISRO during the final round of Smart India Hackathon 2020. Impressively, our solution achieved a peak accuracy of 99.97% when compared to ground truth, even when operating on an unrealistically imbalanced input dataset.
 
 ### Penetration Testing Tools for Android NDK
  - 🌎: https://github.com/jaynammodi | https://github.com/VoldemortCommunity
- - Developed one-of-a-kind penetration testing tools targeted to run on portable android devices and ported existing tools to be compatible with the same. Maintained the same for consecutive years to match and accompany upgraded security standards of popular corporations such as Netflix, Spotify, Hotstar, Google, etc.
+ - Developed groundbreaking penetration testing tools and adapted existing ones for portable Android smartphones, garnering significant acclaim within numerous cracking communities. Proactively maintained and updated these tools to ensure compatibility with the latest security measures implemented by renowned corporations such as Netflix, Spotify, Hotstar, Google, Instagram, and others.
 
 ## 📈 Github Stats
 <div align=center>
   <a href="https://github.com/jaynammodi">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/?username=jaynammodi&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynammodi&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" />
-    <img src="https://github.com/anomius/anomius/raw/output/github-contribution-grid-snake.svg" alt="snake">
   </a>
 </div>
 
