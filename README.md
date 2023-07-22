@@ -7,8 +7,6 @@
 </p>
 </div>
 
-Dynamic and versatile Polyglot Developer familiar with over 30 computer languages. Almost two years of experience in producing robust code as a freelancer for multifarious clients. Eager to learn and develop quality skills. In previous roles, doubled code-efficiency of Unisight Technologies, in gainful employment as their Lead Frontend Developer. Previous work includes full stack development for Progressive Web Apps, Full fledged Android App development, DBMS and CLI Scripts for various client assigned Tasks.
-
 ## ⚡ What have I done?
 ### PyWrite - Instant Assignments 
 <img width="100px" align=right src="http://pywrite.herokuapp.com/static/media/logo.2b878ac4.svg"/>
@@ -67,20 +65,6 @@ of the flames.
 
 -Fiona
 ```
-
-#### Everything Else?
- - Technical Team Lead for Google Developer Student Clubs MIT - WPU.
- - Technical Team Lead for TEDxMITWPU.
- - Design Head for Texephyr'22 - The Flagship Technical Fest of MIT - WPU.
- - Core Team Member of CodersEra - Official CodeChef of MIT - WPU.
- - Finalist in Smart India Hackathon 2020 - Ministry of Human Resource & Development, India.
- - Winner of Sshell's International Grand CTF Challenge 2020 - Sshell.in.
- - Winner of Eklavya 2019 - CodersEra, MIT World Peace University.
- - Winner of Technothlon 2018 - Techniche, IIT Guwahati.
- - International Rank 5 in Problem Solving Olympiad - Humming Bird Education.
- - International Rank 6 in English Olympiad - Humming Bird Education.
- - International Rank 18 with 99.28% in International English Olympiad - Science Olympiad Foundation.
- - State Level Topper in Various Olympiads - Science Olympiad Foundation.
 
 ## ♟ One line that describes me best?
  - ✨sǝʌɐʍ ǝɥʇ oʇ ʞןɐʇ ı ✨
