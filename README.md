@@ -1,5 +1,8 @@
 # Hi, I'm Jaynam! 👋🏻
 
+<p>An innovative tech enthusiast skilled at crafting elegant solutions for complex issues. With a
+strategic mindset and unwavering commitment to excellence, I'm poised to lead any team efficiently.</p>
+
 <div align="center">
    <p><a href="https://www.linkedin.com/in/jaynammodi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
    <a href="https://twitter.com/jaynammodi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
@@ -7,15 +10,34 @@
 </p>
 </div>
 
+## Professional Life 📎
+
+### SDE - 1 | QA Core
+## PhonePe | Pune | 2023
+- Strategic test planning for robust software quality.
+- Automated script execution for efficient testing.
+
+### SDE - 1 | HyperView
+## Quidich | Mumbai | 2022
+- Real-time object detection and tracking algorithm.
+- Autonomous object tracking using live camera feeds.
+- Applying computer vision for sports insights.
+
+...
+
 ## ⚡ What have I done?
 ### PyWrite - Instant Assignments 
+- 🌎: https://pywrite.herokuapp.com
 
- - 🌎: https://pywrite.herokuapp.com
- - Guided a diverse team to develop a cutting-edge assignment rendering software that produced natural handwriting synthesis using a recurrent neural network. Facilitated simple document uploads and customization, producing high-quality PDFs that resemble real assignments. Committed to driving future successes with a customer-oriented mindset.
+- Cutting-edge assignment rendering software.
+- Leveraged RNNs for natural handwriting synthesis.
 
 ### Project Aletheia
- - 🌎: https://github.com/jaynammodi/ProjectAletheia
- - Designed and developed a state-of-the-art 16-bit Spectrally Normalized Generative Adversarial Network (GAN) specifically tailored for reconstructing row and column dropouts in Short Wave Infrared Images obtained from satellite captures. The project received mentorship and evaluation from ISRO during the final round of Smart India Hackathon 2020. Impressively, our solution achieved a peak accuracy of 99.97% when compared to ground truth, even when operating on an unrealistically imbalanced input dataset.
+- 🌎: https://github.com/jaynammodi/ProjectAletheia
+
+- ISRO-mentored project for data dropout restoration.
+- Advanced 16-bit GAN for reconstructing SWIR Images.
+- GIS-optimized generator with 99.97% accuracy.
 
 ### Penetration Testing Tools for Android NDK
  - 🌎: https://github.com/jaynammodi | https://github.com/VoldemortCommunity
