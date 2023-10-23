@@ -40,8 +40,10 @@ strategic mindset and unwavering commitment to excellence, I'm poised to lead an
 - GIS-optimized generator with 99.97% accuracy.
 
 ### Penetration Testing Tools for Android NDK
- - 🌎: https://github.com/jaynammodi | https://github.com/VoldemortCommunity
- - Developed groundbreaking penetration testing tools and adapted existing ones for portable Android smartphones, garnering significant acclaim within numerous cracking communities. Proactively maintained and updated these tools to ensure compatibility with the latest security measures implemented by renowned corporations such as Netflix, Spotify, Hotstar, Google, Instagram, and others.
+- 🌎: https://github.com/jaynammodi | https://github.com/VoldemortCommunity
+- Developed groundbreaking penetration testing tools.
+- Adapted existing acclaimed tools for Android NDK.
+- Proactively maintained and updated tools for compatibility with the latest security measures from companies like Netflix, Spotify, Hotstar, Google, Instagram, and others.
 
 ## 📈 Github Stats
 <div align=center>
