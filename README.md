@@ -12,13 +12,11 @@ strategic mindset and unwavering commitment to excellence, I'm poised to lead an
 
 ## Professional Life 📎
 
-### SDE - 1 | QA Core
-## PhonePe | Pune | 2023
+### PhonePe - SDE - 1 | QA Core | Pune 2023
 - Strategic test planning for robust software quality.
 - Automated script execution for efficient testing.
 
-### SDE - 1 | HyperView
-## Quidich | Mumbai | 2022
+### Quidich - SDE | HyperView | Mumbai 2022
 - Real-time object detection and tracking algorithm.
 - Autonomous object tracking using live camera feeds.
 - Applying computer vision for sports insights.
