@@ -16,6 +16,11 @@ strategic mindset and unwavering commitment to excellence, I'm poised to lead an
 - Strategic test planning for robust software quality.
 - Automated script execution for efficient testing.
 
+### KwiqReply - SDE | QuickVideo | Pune 2022
+- Whatsapp Buisness API platform.
+- Customised automation solutions for multifarious clients.
+- Applying deepfakes & AI powered Text-to-Speech for customised video rendering.
+
 ### Quidich - SDE | HyperView | Mumbai 2022
 - Real-time object detection and tracking algorithm.
 - Autonomous object tracking using live camera feeds.
