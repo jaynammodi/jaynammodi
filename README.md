@@ -12,9 +12,10 @@ strategic mindset and unwavering commitment to excellence, I'm poised to lead an
 
 ## Professional Life 📎
 
-### PhonePe - SDE - 1 | QA Core | Pune 2023
+### PhonePe - SDET | QA Core | Pune 2023
 - Strategic test planning for robust software quality.
 - Automated script execution for efficient testing.
+- Adoption of provider-driven contract testing, streamlining integration of new features and updates.
 
 ### KwiqReply - SDE | QuickVideo | Pune 2022
 - Whatsapp Buisness API platform.
