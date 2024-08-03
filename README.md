@@ -56,51 +56,6 @@ strategic mindset and unwavering commitment to excellence, I'm poised to lead an
     <img height="150px" src="https://github-readme-stats.vercel.app/api/?username=jaynammodi&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynammodi&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=tokyonight" />
   </a>
 </div>
-
-## 🎵 Vibe with me
-
-<img width="400px" align=right src="https://spotify-github-profile.vercel.app/api/view.svg?uid=v0asaq6sbemo2ik6adpcioj6k&cover_image=true&theme=default&show_offline=false">
-
-```
-Here's what they don’t tell you:
-
-Icarus laughed as he fell.
-Threw his head back and
-yelled into the winds,
-arms spread wide,
-teeth bared to the world.
-
-There is a bitter triumph
-in crashing when you should be
-soaring.
-
-The wax scorched his skin,
-ran blazing trails down his back,
-his thighs, his ankles, his feet.
-Feathers floated like prayers
-past his fingers,
-close enough to snatch back.
-Death breathed burning kisses
-against his shoulders,
-where the wings joined the harness.
-The sun painted everything
-in shades of gold.
-
-There is a certain beauty
-in setting the world on fire
-and watching from the centre
-of the flames.
-
--Fiona
-```
-
-## ♟ One line that describes me best?
- - ✨sǝʌɐʍ ǝɥʇ oʇ ʞןɐʇ ı ✨
-
-<p align="center">
-  <img src="https://source.unsplash.com/random">
-</p>
-
 <!---
 jaynammodi/jaynammodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
